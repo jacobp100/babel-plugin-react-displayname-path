@@ -1,6 +1,6 @@
 {
   "name": "@jacobp100/babel-plugin-react-displayname-path",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "index.js",
   "description": "Babel plugin to display React components names with file path prefix",
   "license": "MIT",
