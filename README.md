@@ -1,5 +1,7 @@
 # babel-plugin-react-displayname-path
 
+<a href="https://jacobdoescode.com/technicalc"><img alt="Part of the TechniCalc Project" src="https://github.com/jacobp100/technicalc-core/blob/master/banner.png" width="200" height="60"></a>
+
 Babel plugin to display React components names with file path prefix. Automatically detects and sets `displayName` property for React components.
 
 This is useful for having meaningful component names show up in production builds of React apps.
